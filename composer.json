@@ -1,0 +1,17 @@
+{
+    "name": "tsybenko/template-engine",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tsybenko",
+            "email": "tsybenko.dmitry@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TemplateEngine\\": "src/"
+        }
+    }
+}
